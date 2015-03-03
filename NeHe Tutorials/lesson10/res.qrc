@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/img" >
+        <file>Mud.bmp</file>
+    </qresource>
+    <qresource prefix="/data" >
+        <file>World.txt</file>
+    </qresource>
+</RCC>
